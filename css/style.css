@@ -1,0 +1,60 @@
+/*CSS DOCUMENT*/
+
+.navbar-item{
+display:inline-block;
+vertical-align: topp;
+}
+
+
+.logo {
+
+width:23%;
+padding: 1%;
+}
+
+nav{
+
+width: 73%;
+padding: 1%;
+
+}
+
+.ul{
+
+width: 50%;
+margin-left: auto;
+
+}
+
+.logo{
+
+text-align: center;
+}
+
+.heroImg{
+height: 600px;
+padding: 25px;
+
+}
+
+.content{
+width: 500px;
+margin: 0 auto;
+text-align: center;
+}
+
+footer {
+background-color: #373738;
+padding: 20px; 
+}
+
+footer ul {
+display: inline-block;
+vertical-align: top;
+padding: 0;
+margin: 20px;
+}
+
+footer ul li {
+padding: 0 10px; 
+}
